@@ -1,0 +1,37 @@
+{
+  "info": {
+    "name": "Reqres API Collection",
+    "_postman_id": "12345",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET Users",
+      "request": {
+        "method": "GET",
+        "url": "https://reqres.in/api/users"
+      }
+    },
+    {
+      "name": "POST User",
+      "request": {
+        "method": "POST",
+        "url": "https://reqres.in/api/users"
+      }
+    },
+    {
+      "name": "PUT User",
+      "request": {
+        "method": "PUT",
+        "url": "https://reqres.in/api/users/2"
+      }
+    },
+    {
+      "name": "DELETE User",
+      "request": {
+        "method": "DELETE",
+        "url": "https://reqres.in/api/users/2"
+      }
+    }
+  ]
+}

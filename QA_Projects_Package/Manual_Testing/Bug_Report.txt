@@ -1,0 +1,2 @@
+Bug ID | Title | Steps to Reproduce | Expected Result | Actual Result | Severity | Status
+B001   | Checkout button not clickable | Add item > Go to cart > Checkout | Checkout screen appears | Button disabled | High | Open

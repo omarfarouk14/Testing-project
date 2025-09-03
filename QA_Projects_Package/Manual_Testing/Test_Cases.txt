@@ -1,0 +1,5 @@
+Test Case ID | Scenario          | Steps | Expected Result | Actual Result | Status
+TC001        | Login Valid User | Enter username+password | User lands on dashboard | - | -
+TC002        | Login Invalid User | Enter wrong username | Error message displayed | - | -
+TC003        | Add Item to Cart | Click 'Add to cart' | Item appears in cart | - | -
+TC004        | Checkout Flow | Add item > Checkout | Order success message | - | -

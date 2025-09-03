@@ -1,0 +1,13 @@
+QA Project - Test Plan (Saucedemo E-commerce)
+
+Objective:
+- Verify basic e-commerce workflow (Login, Add to Cart, Checkout).
+
+Scope:
+- Functional Testing only.
+
+Tools:
+- Browser (Chrome/Firefox), Excel, Screenshots.
+
+Environment:
+- URL: https://www.saucedemo.com
